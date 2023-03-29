@@ -43,7 +43,8 @@ function App() {
             element={<SavedBooks />} 
           />
           <Route 
-            render={() => <h1 className="display-2">Wrong page!</h1>}
+            path='*'
+            element={<h1 className='display-2'>Wrong Page!</h1>}
           />
         </Routes>
         </>

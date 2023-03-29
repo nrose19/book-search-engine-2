@@ -7,4 +7,6 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/googlebooks', {
   useFindAndModify: false,
 });
 
+console.log(process.env.MONGODB_URI)
+
 module.exports = mongoose.connection;
