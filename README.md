@@ -31,4 +31,8 @@ npm start - for ability to view the graphql sandbox
 ```
 
 ## Visuals
+<img width="1436" alt="search for books" src="https://user-images.githubusercontent.com/113370886/228628396-972ecbd5-bbb6-4e3a-9504-2f19bf568e81.png">
+
+<img width="1440" alt="saved books" src="https://user-images.githubusercontent.com/113370886/228628467-28a63c8a-d1e7-4eac-aa5d-d961db04af6d.png">
+
 
